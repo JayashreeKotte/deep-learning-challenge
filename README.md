@@ -60,7 +60,7 @@ Optimize the model leveraging TensorFlow to achieve a target predictive accuracy
 * Experiment with different activation functions for the hidden layers.
 * Modify the number of epochs in the training regimen.
 
-# Report 
+# Deep Learning Challenge Report 
 ### Overview 
     Alphabet Soup, a nonprofit organization, aims to enhance its grant distribution system through the utilization of machine learning and neural networks. My responsibility involved developing a binary classifier using the given dataset to pinpoint prospective grant beneficiaries most likely to succeed when assisted by Alphabet Soup.
 
@@ -99,3 +99,15 @@ In summary, the deep learning model achieved an accuracy of approximately 72% in
 
 ![Summary](Images/Summary.png)
 
+## How to Install and Run the script
+
+To run this script:
+1. Copy the git link in your local git repository
+2. Ensure *Deep_Learning_Challenge* directory, *AlphabetSoupCharity.ipynb* and *AlphabetSoupCharity_Optimization.ipynb* files are present
+3. Ensure the respective h5 format output files are present in the *Deep_Learning_Challenge* folder
+4. Run the script using **Google Colab** from *Deep_Learning_Challenge* directory and view results
+5. Run each block of code individually starting from the very top 
+
+## Credits
+
+To write this script, I used the starter code provided and followed the challenge requirements meticulously. I did refer to the solution file to verify if my results were correct <br> 
